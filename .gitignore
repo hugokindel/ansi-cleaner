@@ -1,0 +1,13 @@
+## JetBrains.
+.idea/
+
+# macOS.
+.DS_Store
+
+# Environment file.
+.env
+
+# evntripr-agent.
+logs/
+evntripr-agent
+evntripr-agent.exe
